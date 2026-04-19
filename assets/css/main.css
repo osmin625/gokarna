@@ -585,7 +585,7 @@ table td {
 
   .markdown-content, .home-posts {
     width: auto;
-    margin: 0;
+    margin: 0 auto;
   }
 
   main#content .container {
